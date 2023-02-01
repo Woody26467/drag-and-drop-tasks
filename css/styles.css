@@ -26,6 +26,7 @@ body {
 .task-title h3 {
   margin: 0;
   padding: 20px;
+  color: rgb(255, 255, 255);
 }
 
 #title-1 {
@@ -63,12 +64,14 @@ body {
 .task h4 {
   margin: 0;
   color: rgb(49, 49, 49);
+  padding: 4px;
 }
 
 .task p {
   margin: 0;
   font-size: 15px;
   color: rgb(103, 103, 103);
+  padding: 4px;
 }
 
 .image-container {
